@@ -1,0 +1,12 @@
+.Eightball-circle{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
